@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Yanis</title>
+    <link>https://yanis791.github.io/</link>
+    <description>Recent content on Yanis</description>
+    <image>
+      <title>Yanis</title>
+      <url>https://yanis791.github.io/papermod-cover.png</url>
+      <link>https://yanis791.github.io/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 07 Jun 2023 00:37:04 +0800</lastBuildDate><atom:link href="https://yanis791.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Page2</title>
+      <link>https://yanis791.github.io/posts/things/page2/</link>
+      <pubDate>Wed, 07 Jun 2023 00:37:04 +0800</pubDate>
+      
+      <guid>https://yanis791.github.io/posts/things/page2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Page1</title>
+      <link>https://yanis791.github.io/posts/blog/page1/</link>
+      <pubDate>Wed, 07 Jun 2023 00:37:00 +0800</pubDate>
+      
+      <guid>https://yanis791.github.io/posts/blog/page1/</guid>
+      <description></description>
+    </item>
+    
+    
+    
+  </channel>
+</rss>
